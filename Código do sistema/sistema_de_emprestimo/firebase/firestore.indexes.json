@@ -1,0 +1,54 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "usuario",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "admin",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "uid",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "emprestimo",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "uid_destinatario",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "status",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "created_time",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "emprestimo",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "uid_remetente",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "uid_destinatario",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "created_time",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}

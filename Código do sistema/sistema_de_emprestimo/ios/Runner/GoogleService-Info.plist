@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAgf_V-3GCK4gYPcVDX9gnF8YW9s18DOnQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>978932472902</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.sistemadeemprestimo</string>
+	<key>PROJECT_ID</key>
+	<string>sisemprestimos</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sisemprestimos.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:978932472902:ios:e02b0708af53d582a3fe47</string>
+</dict>
+</plist>

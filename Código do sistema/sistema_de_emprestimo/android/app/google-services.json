@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978932472902",
+    "project_id": "sisemprestimos",
+    "storage_bucket": "sisemprestimos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978932472902:android:42968ec8bfd81fa9a3fe47",
+        "android_client_info": {
+          "package_name": "com.mycompany.sistemadeemprestimo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNbwhEae1ci9GJHssMAn1kusoChGqh9xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
